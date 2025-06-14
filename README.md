@@ -21,6 +21,9 @@ A criptografia simétrica utiliza **uma única chave secreta** para **criptograf
 - Comunicação segura em redes privadas (VPNs)
 - HTTPS (em conjunto com TLS após troca de chave)
 
+![image](https://github.com/user-attachments/assets/7e0478fd-c70e-41a4-9a70-87a46ed89731)
+
+
 ---
 
 ### 🔐 Criptografia Assimétrica
